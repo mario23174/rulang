@@ -4,6 +4,8 @@
 # ru_lang
 Русский (основной) язык сервера
 
+![rockford](https://github.com/rockfordsu/rulang/blob/master/pictures/test.png?raw=true)
+
 ----------
 
 ## **Перед тем как начать работу с ru_lang.json**
