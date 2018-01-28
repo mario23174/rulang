@@ -1,4 +1,6 @@
 
+![rockford](https://github.com/rockfordsu/rulang/blob/master/pictures/shapka.png?raw=true)
+
 # ru_lang
 Русский (основной) язык сервера
 
